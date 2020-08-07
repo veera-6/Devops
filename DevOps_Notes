@@ -1,9 +1,9 @@
-														DevOps
-														======
+							DevOps Notes
+							============
 Working Directory=====> Add =====> staging Area ====> commit =====> Repository
 
 Working Directory===> Staging Area ===> Local Repository ===> Remote Repository
-				Add			Commit				Add remote origin
+		 Add		  Commit	  Add remote origin
 
 git add hello.rb
 git commit -m "First Commit"
