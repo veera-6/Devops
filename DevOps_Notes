@@ -1,0 +1,12 @@
+														DevOps
+														======
+Working Directory=====> Add =====> staging Area ====> commit =====> Repository
+
+Working Directory===> Staging Area ===> Local Repository ===> Remote Repository
+				Add			Commit				Add remote origin
+
+git add hello.rb
+git commit -m "First Commit"
+
+https://github.com/veera-6/Devops.git
+
