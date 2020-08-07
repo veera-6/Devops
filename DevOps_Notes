@@ -5,8 +5,11 @@ Working Directory=====> Add =====> staging Area ====> commit =====> Repository
 Working Directory===> Staging Area ===> Local Repository ===> Remote Repository
 		 Add		  Commit	  Add remote origin
 
-git add hello.rb
-git commit -m "First Commit"
+git add hello.rb 		ex.	git add <file name>	i.e	<Adding file to Staging area from Working directory>
+
+git commit -m "Message name/ Save to local repostiory"
 
 https://github.com/veera-6/Devops.git
+
+
 
