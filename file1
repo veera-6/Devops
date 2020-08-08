@@ -1,0 +1,10 @@
+#! /bin/bash
+
+curr_DATE= date +"%Y"
+
+echo -n "User name: "
+read Name
+echo -n "User age: "
+read age
+let final='(50-"$age")'+$curr_DATE
+$curr_DATE
